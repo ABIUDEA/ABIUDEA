@@ -1,0 +1,4 @@
+- 👋 Hola, soy @ABIUDEA
+- 👀 Somos una organización interesada en el desarrollo e implementación de proyectos encaminados a la protección y restauración de la biodiversidad, acción humanitaria, gestión del riesgo, cambio climático y seguridad alimentaria, a través de estrategias encaminadas a la equidad de género y al desarrollo sostenible, en asocio con organismos locales e internacionales.
+- 🌱 Actualmente tenemos una aplicación llamada Abiudea Contigo 💞️ en colaboración con la desarrolladora @AMR-Industries y Webbo
+- 📫 Cómo contactar con nosotros: abiudeacolombia@gmail.com
